@@ -1,6 +1,6 @@
 # A Mean-Reversion Based Algorithmic Trading Strategy
 
-The contents of this folder contain a number of developed pieces of code as part of the final year project for the MEng Computer Science course at UCL. The contents are split as follows:
+The contents of this folder contain several developed pieces of code as part of the final year project for the MEng Computer Science course at UCL. The contents are split as follows:
 
 - historic_data: Contains two different CSV files containing the historic price data for a variety of foreign exchange pairs. These are mainly supplied for the use by notebooks in the Jupyter Notebooks subfolder.
 	- "10 Year Data" - Contains past price information for 13 different foreign exchange pairs, from January 1st 2010 to January 1st 2020.
